@@ -1,0 +1,15 @@
+# Ambiente Virtual
+.venv/
+venv/
+env/
+
+# Arquivos do Python
+__pycache__/
+*.py[cod]
+*.pkl
+
+# Configurações do VS Code
+.vscode/
+
+# Sistema Operacional (Mac/Linux)
+.DS_Store
